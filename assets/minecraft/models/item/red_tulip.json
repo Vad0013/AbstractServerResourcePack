@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated", 
+    "textures": {
+        "layer0": "block/red_tulip"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":1000},"model":"prikolbank:atm/display"},
+        {"predicate":{"custom_model_data":1001},"model":"prikolbank:atm/main_screen"},
+        {"predicate":{"custom_model_data":1002},"model":"prikolbank:atm/give_cash_screen"},
+        {"predicate":{"custom_model_data":1003},"model":"prikolbank:atm/get_cash_screen"},
+        {"predicate":{"custom_model_data":1004},"model":"prikolbank:atm/trans_select_user_screen"},
+        {"predicate":{"custom_model_data":1005},"model":"prikolbank:atm/trans_to_user_screen"},
+        {"predicate":{"custom_model_data":10010},"model":"prikolbank:atm/effects"},
+        {"predicate":{"custom_model_data":10041},"model":"prikolbank:atm/trans_select_user_panel"}
+        
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_1.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_5.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_10.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_20.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_50.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_100.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_200.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0200"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_500.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0500"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_1000.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u1000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_2000.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u2000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/gilded_blackstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u0040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/tinted_glass.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u0041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/observer_front.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u0042"
+            ]
+        }
+    ]
+}

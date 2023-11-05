@@ -1,0 +1,90 @@
+{
+    "parent": "prikolbank:atm/display",
+    "display": {
+        "gui": {
+            "rotation": [
+                30,
+                -135,
+                0
+            ],
+            "translation": [
+                0,
+                -2,
+                0
+            ],
+            "scale": [
+                0.34,
+                0.34,
+                0.34
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                45,
+                -135,
+                0
+            ],
+            "translation": [
+                0,
+                4,
+                0
+            ],
+            "scale": [
+                0.2,
+                0.2,
+                0.2
+            ]
+        },
+        "ground": {
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                3,
+                0
+            ],
+            "scale": [
+                0.2,
+                0.2,
+                0.2
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                -40,
+                -175,
+                0
+            ],
+            "translation": [
+                -2,
+                3,
+                2
+            ],
+            "scale": [
+                0.2,
+                0.2,
+                0.2
+            ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                -175,
+                0
+            ],
+            "translation": [
+                0,
+                1.75,
+                0
+            ],
+            "scale": [
+                0.2,
+                0.2,
+                0.2
+            ]
+        }
+    }
+}

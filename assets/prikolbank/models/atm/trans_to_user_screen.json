@@ -1,0 +1,14 @@
+{
+	"textures": {
+		"0": "prikolbank:item/atm/atm_trans_to_user_front"
+	},
+	"elements": [
+		{
+			"from": [-16, -0.01, 7.11],
+			"to": [32, 32, 8.11],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
