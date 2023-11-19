@@ -1,0 +1,418 @@
+{
+    "music_disc.apparatgoodbye": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/apparatgoodbye",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.benmoonmajesty": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/benmoonmajesty",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.cfouroneeightstrangerthings": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/cfouroneeightstrangerthings",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltaruneattackofthekillerqueen": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/deltaruneattackofthekillerqueen",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.disasterpeacedeath": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/disasterpeacedeath",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.disasterpeacemajesty": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/disasterpeacemajesty",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.gaullinmoonlight": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/gaullinmoonlight",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.georgeyobramovtheaccordionwandersalone": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/georgeyobramovtheaccordionwandersalone",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.gogorikivint": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/gogorikivint",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.goldenlightelevatortheme": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/goldenlightelevatortheme",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.gorillaznovemberhascome": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/gorillaznovemberhascome",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.interpolslowhands": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/interpolslowhands",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jamiechristophersonithastobethisway": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/jamiechristophersonithastobethisway",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.juleecruisetheworldspins": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/juleecruisetheworldspins",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.kingandjesterundertaker": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/kingandjesterundertaker",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.kirilljuicygivemethefreshness": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/kirilljuicygivemethefreshness",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mechpainkilleroperacastlefight": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/mechpainkilleroperacastlefight",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.nautiluspompiliustitanic": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/nautiluspompiliustitanic",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.noizemceverythingislikepeople": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/noizemceverythingislikepeople",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.prophetsunboyislandintheocean": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/prophetsunboyislandintheocean",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.prophetsunboywhatisdandy": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/prophetsunboywhatisdandy",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.spicalibrarby": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/spicalibrarby",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.theinkspotsmaybe": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/theinkspotsmaybe",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.theweekndhighforthis": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/theweekndhighforthis",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.threedaysgracetimeofdying": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/threedaysgracetimeofdying",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.vaoneonehallaskyline": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/vaoneonehallaskyline",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.ventoaureomaintheme": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/ventoaureomaintheme",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.yesyourgracemerkfolk": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/yesyourgracemerkfolk",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.yogscastdiggydiggyhole": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/yogscastdiggydiggyhole",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.yumenikkiaztecravemonkey": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/yumenikkiaztecravemonkey",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.adaytorememberlastchancetodance": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/adaytorememberlastchancetodance",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.allianceatdawn": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/allianceatdawn",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.creeperohman": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/creeperohman",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.electriclightorchestramrbluesky": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/electriclightorchestramrbluesky",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.electrophoresisphotographer": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/electrophoresisphotographer",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.givetankwe": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/givetankwe",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.hoyomixelogiacinerosa": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/hoyomixelogiacinerosa",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.imaginedragonsbones": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/imaginedragonsbones",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.joanjettbadreputation": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/joanjettbadreputation",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.moneymoneymustbethemoney": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/moneymoneymustbethemoney",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.morshuitsyoursmyfriend": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/morshuitsyoursmyfriend",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.omoriclamsclamsclams": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/omoriclamsclamsclams",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.prophetsunboybababebobo": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/prophetsunboybababebobo",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.rhythmthiefcursed": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/rhythmthiefcursed",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sadsvitcassette": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/sadsvitcassette",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.thebangleswalkinglikeanegyptian": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/thebangleswalkinglikeanegyptian",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.yourgentlemadnessbottomofsoul": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/yourgentlemadnessbottomofsoul",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.bobbyyarsulikminecraftthesong": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/bobbyyarsulikminecraftthesong",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.minedontmineatnight": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/minedontmineatnight",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.tryhardninjafallenkingdoom": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/tryhardninjafallenkingdoom",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.ariacurseofseas": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/ariacurseofseas",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.nautiluspompiliusprinceofsilence": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/nautiluspompiliusprinceofsilence",
+                "stream": true
+            }
+        ]
+    }
+}
