@@ -1,11 +1,12 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "prikolbank:item/atm/atm_trans_select_user_panel"
 	},
 	"elements": [
 		{
-			"from": [-5.55, 6.5, 7.11],
-			"to": [21.55, 9.5, 8.11],
+			"from": [6.645, 7.85, 8],
+			"to": [9.355, 8.15, 8.1],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
