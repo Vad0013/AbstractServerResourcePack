@@ -1,0 +1,15 @@
+{
+	"textures": {
+		"0": "prikolbank:item/atm/atm_get_cash_event_front"
+	},
+	"elements": [
+		{
+			"name": "display",
+			"from": [5.6, 0, 8],
+			"to": [10.4, 3.2, 8.09],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

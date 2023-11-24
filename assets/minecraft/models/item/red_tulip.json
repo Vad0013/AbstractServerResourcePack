@@ -10,6 +10,7 @@
         {"predicate":{"custom_model_data":1003},"model":"prikolbank:atm/get_cash_screen"},
         {"predicate":{"custom_model_data":1004},"model":"prikolbank:atm/trans_select_user_screen"},
         {"predicate":{"custom_model_data":1005},"model":"prikolbank:atm/trans_to_user_screen"},
+        {"predicate":{"custom_model_data":1006},"model":"prikolbank:atm/get_cash_event_screen"},
         {"predicate":{"custom_model_data":10010},"model":"prikolbank:atm/effects"},
         {"predicate":{"custom_model_data":10041},"model":"prikolbank:atm/trans_select_user_panel"}
         

@@ -92,6 +92,15 @@
         },
         {
             "type": "bitmap",
+            "file": "prikolbank:item/banknotes/prikol_322.png",
+            "ascent": 12,
+            "height": 17,
+            "chars": [
+                "\u0322"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:block/gilded_blackstone.png",
             "ascent": 7,
             "height": 8,

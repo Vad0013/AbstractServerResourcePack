@@ -12,6 +12,7 @@
         {"predicate":{"custom_model_data":10050},"model":"prikolbank:banknotes/fifty_banknote"},
         {"predicate":{"custom_model_data":10100},"model":"prikolbank:banknotes/hundred_banknote"},
         {"predicate":{"custom_model_data":10200},"model":"prikolbank:banknotes/two_hundred_banknote"},
+        {"predicate":{"custom_model_data":10322},"model":"prikolbank:banknotes/three_hundred_thirty_three_banknote"},
         {"predicate":{"custom_model_data":10500},"model":"prikolbank:banknotes/five_hundred_banknote"},
         {"predicate":{"custom_model_data":11000},"model":"prikolbank:banknotes/thousand_banknote"},
         {"predicate":{"custom_model_data":12000},"model":"prikolbank:banknotes/two_thousand_banknote"}
