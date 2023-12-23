@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mirror_music:item/epic/three_days_of_shit__fecal_tricks"
+    }
+}

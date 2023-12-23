@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mirror_music:item/epic/nautilus_pompilius__casanova"
+    }
+}

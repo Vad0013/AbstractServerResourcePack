@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mirror_music:item/epic/across_rivers_mountains_and_valleys__6equj5"
+    }
+}

@@ -414,5 +414,351 @@
                 "stream": true
             }
         ]
+    },
+
+
+    "music_disc.the_living_tombstone__die_in_a_fire": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/the_living_tombstone__die_in_a_fire",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.the_living_tombstone__five_nights_at_freddy": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/the_living_tombstone__five_nights_at_freddy",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.the_living_tombstone__its_been_so_long": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/the_living_tombstone__its_been_so_long",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.the_living_tombstone__join_us_for_a_bite": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/the_living_tombstone__join_us_for_a_bite",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sardonyx__main_theme": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/sardonyx__main_theme",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sugilite__main_theme": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/sugilite__main_theme",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.self_deception__intoxicated_haze": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/self_deception__intoxicated_haze",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.shrek__i_need_a_hero": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/shrek__i_need_a_hero",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.aerosmith__dream_on": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/aerosmith__dream_on",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.andrey_gubin__night": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/andrey_gubin__night",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.the_anix_x_inhuman__quicksand": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/the_anix_x_inhuman__quicksand",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.gesu_no_kiwami_otome__sassouto_hashiru_tonegawa_kun": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/gesu_no_kiwami_otome__sassouto_hashiru_tonegawa_kun",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.gnarls_barkley__crazy": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/gnarls_barkley__crazy",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.the_blue_hearts__mirai_wa_bokura_no_te_no_naka": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/the_blue_hearts__mirai_wa_bokura_no_te_no_naka",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jools_tv__the_big_bad_wolf": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/jools_tv__the_big_bad_wolf",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.echo_intermission_remix": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/echo_intermission_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.ericdoa_valorant__greater_than_one": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/ericdoa_valorant__greater_than_one",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.slava_kpss_feat_dead_blonde__space": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/slava_kpss_feat_dead_blonde__space",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.three_days_of_shit__fecal_tricks": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/three_days_of_shit__fecal_tricks",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.serega_pirat_x_barikader__how_powerful_he_is": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/serega_pirat_x_barikader__how_powerful_he_is",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.zamay_x_everymonth__blind_man": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/zamay_x_everymonth__blind_man",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.omori__golden_vengeance": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/omori__golden_vengeance",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mob_choir__one": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/mob_choir__one",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.aria__atilla": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/aria__atilla",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.rainbow__catch_the_rainbow": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/rainbow__catch_the_rainbow",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.nautilus_pompilius__casanova": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/nautilus_pompilius__casanova",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sunthugga_x_delle__among_thousands": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/sunthugga_x_delle__among_thousands",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.give_me_a_tank__people": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/give_me_a_tank__people",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.itsyk_tsyper_x_igor_tsyba__smoke": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/itsyk_tsyper_x_igor_tsyba__smoke",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.island__we": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/island__we",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.fish__gothic_rap": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/fish__gothic_rap",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.tom_petty__love_is_a_long_road": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/tom_petty__love_is_a_long_road",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.animal_sun__can_you_hear_the_thunder": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/animal_sun__can_you_hear_the_thunder",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.glueue__somewhere": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/glueue__somewhere",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.haley_heynderickx__the_bug_collector": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/haley_heynderickx__the_bug_collector",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.old_gods_of_asgard__take_control": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/old_gods_of_asgard__take_control",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.poets_of_the_fall__the_labyrinth": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/poets_of_the_fall__the_labyrinth",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.upril__razors_and_erasers": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/upril__razors_and_erasers",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dead_wasps__ill_be_your_sun": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/dead_wasps__ill_be_your_sun",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.give_me_a_tank__ahead": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/give_me_a_tank__ahead",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.shadows_of_freedom__a_song_of_anger": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/shadows_of_freedom__a_song_of_anger",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.across_rivers_mountains_and_valleys__6equj5": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/across_rivers_mountains_and_valleys__6equj5",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.across_rivers_mountains_and_valleys__the_thunderous_overture": {
+        "sounds": [
+            {
+                "name": "mirror_music:records/across_rivers_mountains_and_valleys__the_thunderous_overture",
+                "stream": true
+            }
+        ]
     }
 }

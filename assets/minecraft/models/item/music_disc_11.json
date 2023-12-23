@@ -8,313 +8,573 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "mirror_music:disk/music_disc_apparatgoodbye"
+            "model": "mirror_music:disc/music_disc_apparatgoodbye"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "mirror_music:disk/music_disc_benmoonmajesty"
+            "model": "mirror_music:disc/music_disc_benmoonmajesty"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "mirror_music:disk/music_disc_cfouroneeightstrangerthings"
+            "model": "mirror_music:disc/music_disc_cfouroneeightstrangerthings"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "mirror_music:disk/music_disc_deltaruneattackofthekillerqueen"
+            "model": "mirror_music:disc/music_disc_deltaruneattackofthekillerqueen"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "mirror_music:disk/music_disc_disasterpeacedeath"
+            "model": "mirror_music:disc/music_disc_disasterpeacedeath"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "mirror_music:disk/music_disc_disasterpeacemajesty"
+            "model": "mirror_music:disc/music_disc_disasterpeacemajesty"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "mirror_music:disk/music_disc_gaullinmoonlight"
+            "model": "mirror_music:disc/music_disc_gaullinmoonlight"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "mirror_music:disk/music_disc_georgeyobramovtheaccordionwandersalone"
+            "model": "mirror_music:disc/music_disc_georgeyobramovtheaccordionwandersalone"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "mirror_music:disk/music_disc_gogorikivint"
+            "model": "mirror_music:disc/music_disc_gogorikivint"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "mirror_music:disk/music_disc_goldenlightelevatortheme"
+            "model": "mirror_music:disc/music_disc_goldenlightelevatortheme"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "mirror_music:disk/music_disc_gorillaznovemberhascome"
+            "model": "mirror_music:disc/music_disc_gorillaznovemberhascome"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "mirror_music:disk/music_disc_interpolslowhands"
+            "model": "mirror_music:disc/music_disc_interpolslowhands"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "mirror_music:disk/music_disc_jamiechristophersonithastobethisway"
+            "model": "mirror_music:disc/music_disc_jamiechristophersonithastobethisway"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "mirror_music:disk/music_disc_juleecruisetheworldspins"
+            "model": "mirror_music:disc/music_disc_juleecruisetheworldspins"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "mirror_music:disk/music_disc_kingandjesterundertaker"
+            "model": "mirror_music:disc/music_disc_kingandjesterundertaker"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "mirror_music:disk/music_disc_kirilljuicygivemethefreshness"
+            "model": "mirror_music:disc/music_disc_kirilljuicygivemethefreshness"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "mirror_music:disk/music_disc_mechpainkilleroperacastlefight"
+            "model": "mirror_music:disc/music_disc_mechpainkilleroperacastlefight"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "mirror_music:disk/music_disc_nautiluspompiliustitanic"
+            "model": "mirror_music:disc/music_disc_nautiluspompiliustitanic"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "mirror_music:disk/music_disc_noizemceverythingislikepeople"
+            "model": "mirror_music:disc/music_disc_noizemceverythingislikepeople"
         },
         {
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "mirror_music:disk/music_disc_prophetsunboyislandintheocean"
+            "model": "mirror_music:disc/music_disc_prophetsunboyislandintheocean"
         },
         {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "mirror_music:disk/music_disc_prophetsunboywhatisdandy"
+            "model": "mirror_music:disc/music_disc_prophetsunboywhatisdandy"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "mirror_music:disk/music_disc_spicalibrarby"
+            "model": "mirror_music:disc/music_disc_spicalibrarby"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "mirror_music:disk/music_disc_theinkspotsmaybe"
+            "model": "mirror_music:disc/music_disc_theinkspotsmaybe"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "mirror_music:disk/music_disc_theweekndhighforthis"
+            "model": "mirror_music:disc/music_disc_theweekndhighforthis"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "mirror_music:disk/music_disc_threedaysgracetimeofdying"
+            "model": "mirror_music:disc/music_disc_threedaysgracetimeofdying"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "mirror_music:disk/music_disc_vaoneonehallaskyline"
+            "model": "mirror_music:disc/music_disc_vaoneonehallaskyline"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "mirror_music:disk/music_disc_ventoaureomaintheme"
+            "model": "mirror_music:disc/music_disc_ventoaureomaintheme"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "mirror_music:disk/music_disc_yesyourgracemerkfolk"
+            "model": "mirror_music:disc/music_disc_yesyourgracemerkfolk"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "mirror_music:disk/music_disc_yogscastdiggydiggyhole"
+            "model": "mirror_music:disc/music_disc_yogscastdiggydiggyhole"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "mirror_music:disk/music_disc_yumenikkiaztecravemonkey"
+            "model": "mirror_music:disc/music_disc_yumenikkiaztecravemonkey"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "mirror_music:disk/music_disc_adaytorememberlastchancetodance"
+            "model": "mirror_music:disc/music_disc_adaytorememberlastchancetodance"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "mirror_music:disk/music_disc_allianceatdawn"
+            "model": "mirror_music:disc/music_disc_allianceatdawn"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "mirror_music:disk/music_disc_creeperohman"
+            "model": "mirror_music:disc/music_disc_creeperohman"
         },
         {
             "predicate": {
                 "custom_model_data": 34
             },
-            "model": "mirror_music:disk/music_disc_electriclightorchestramrbluesky"
+            "model": "mirror_music:disc/music_disc_electriclightorchestramrbluesky"
         },
         {
             "predicate": {
                 "custom_model_data": 35
             },
-            "model": "mirror_music:disk/music_disc_electrophoresisphotographer"
+            "model": "mirror_music:disc/music_disc_electrophoresisphotographer"
         },
         {
             "predicate": {
                 "custom_model_data": 36
             },
-            "model": "mirror_music:disk/music_disc_givetankwe"
+            "model": "mirror_music:disc/music_disc_givetankwe"
         },
         {
             "predicate": {
                 "custom_model_data": 37
             },
-            "model": "mirror_music:disk/music_disc_hoyomixelogiacinerosa"
+            "model": "mirror_music:disc/music_disc_hoyomixelogiacinerosa"
         },
         {
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "mirror_music:disk/music_disc_imaginedragonsbones"
+            "model": "mirror_music:disc/music_disc_imaginedragonsbones"
         },
         {
             "predicate": {
                 "custom_model_data": 39
             },
-            "model": "mirror_music:disk/music_disc_joanjettbadreputation"
+            "model": "mirror_music:disc/music_disc_joanjettbadreputation"
         },
         {
             "predicate": {
                 "custom_model_data": 40
             },
-            "model": "mirror_music:disk/music_disc_moneymoneymustbethemoney"
+            "model": "mirror_music:disc/music_disc_moneymoneymustbethemoney"
         },
         {
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "mirror_music:disk/music_disc_morshuitsyoursmyfriend"
+            "model": "mirror_music:disc/music_disc_morshuitsyoursmyfriend"
         },
         {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "mirror_music:disk/music_disc_omoriclamsclamsclams"
+            "model": "mirror_music:disc/music_disc_omoriclamsclamsclams"
         },
         {
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "mirror_music:disk/music_disc_prophetsunboybababebobo"
+            "model": "mirror_music:disc/music_disc_prophetsunboybababebobo"
         },
         {
             "predicate": {
                 "custom_model_data": 44
             },
-            "model": "mirror_music:disk/music_disc_rhythmthiefcursed"
+            "model": "mirror_music:disc/music_disc_rhythmthiefcursed"
         },
         {
             "predicate": {
                 "custom_model_data": 45
             },
-            "model": "mirror_music:disk/music_disc_sadsvitcassette"
+            "model": "mirror_music:disc/music_disc_sadsvitcassette"
         },
         {
             "predicate": {
                 "custom_model_data": 46
             },
-            "model": "mirror_music:disk/music_disc_thebangleswalkinglikeanegyptian"
+            "model": "mirror_music:disc/music_disc_thebangleswalkinglikeanegyptian"
         },
         {
             "predicate": {
                 "custom_model_data": 47
             },
-            "model": "mirror_music:disk/music_disc_yourgentlemadnessbottomofsoul"
+            "model": "mirror_music:disc/music_disc_yourgentlemadnessbottomofsoul"
         },
         {
             "predicate": {
                 "custom_model_data": 48
             },
-            "model": "mirror_music:disk/music_disc_bobbyyarsulikminecraftthesong"
+            "model": "mirror_music:disc/music_disc_bobbyyarsulikminecraftthesong"
         },
         {
             "predicate": {
                 "custom_model_data": 49
             },
-            "model": "mirror_music:disk/music_disc_minedontmineatnight"
+            "model": "mirror_music:disc/music_disc_minedontmineatnight"
         },
         {
             "predicate": {
                 "custom_model_data": 50
             },
-            "model": "mirror_music:disk/music_disc_tryhardninjafallenkingdoom"
+            "model": "mirror_music:disc/music_disc_tryhardninjafallenkingdoom"
         },
         {
             "predicate": {
                 "custom_model_data": 51
             },
-            "model": "mirror_music:disk/music_disc_ariacurseofseas"
+            "model": "mirror_music:disc/music_disc_ariacurseofseas"
         },
         {
             "predicate": {
                 "custom_model_data": 52
             },
-            "model": "mirror_music:disk/music_disc_nautiluspompiliusprinceofsilence"
+            "model": "mirror_music:disc/music_disc_nautiluspompiliusprinceofsilence"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "mirror_music:disc/epic/the_living_tombstone__die_in_a_fire"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "mirror_music:disc/epic/the_living_tombstone__five_nights_at_freddy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "mirror_music:disc/epic/the_living_tombstone__its_been_so_long"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "mirror_music:disc/epic/the_living_tombstone__join_us_for_a_bite"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "mirror_music:disc/legendary/sardonyx__main_theme"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "mirror_music:disc/legendary/sugilite__main_theme"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "mirror_music:disc/epic/self_deception__intoxicated_haze"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "mirror_music:disc/epic/shrek__i_need_a_hero"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "mirror_music:disc/epic/aerosmith__dream_on"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "mirror_music:disc/epic/andrey_gubin__night"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "mirror_music:disc/epic/the_anix_x_inhuman__quicksand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "mirror_music:disc/epic/gesu_no_kiwami_otome__sassouto_hashiru_tonegawa_kun"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "mirror_music:disc/epic/gnarls_barkley__crazy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "mirror_music:disc/epic/the_blue_hearts__mirai_wa_bokura_no_te_no_naka"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "mirror_music:disc/epic/jools_tv__the_big_bad_wolf"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "mirror_music:disc/epic/echo_intermission_remix"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "mirror_music:disc/epic/ericdoa_valorant__greater_than_one"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "mirror_music:disc/epic/slava_kpss_feat_dead_blonde__space"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "mirror_music:disc/epic/three_days_of_shit__fecal_tricks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "mirror_music:disc/legendary/serega_pirat_x_barikader__how_powerful_he_is"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "mirror_music:disc/epic/zamay_x_everymonth__blind_man"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "mirror_music:disc/epic/omori__golden_vengeance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "mirror_music:disc/epic/mob_choir__one"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "mirror_music:disc/epic/aria__atilla"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "mirror_music:disc/epic/rainbow__catch_the_rainbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "mirror_music:disc/epic/nautilus_pompilius__casanova"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "mirror_music:disc/epic/sunthugga_x_delle__among_thousands"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "mirror_music:disc/epic/give_me_a_tank__people"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "mirror_music:disc/epic/itsyk_tsyper_x_igor_tsyba__smoke"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "mirror_music:disc/epic/island__we"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "mirror_music:disc/epic/fish__gothic_rap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "mirror_music:disc/epic/tom_petty__love_is_a_long_road"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "mirror_music:disc/epic/animal_sun__can_you_hear_the_thunder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "mirror_music:disc/epic/glueue__somewhere"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "mirror_music:disc/epic/haley_heynderickx__the_bug_collector"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "mirror_music:disc/epic/old_gods_of_asgard__take_control"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 89
+            },
+            "model": "mirror_music:disc/epic/poets_of_the_fall__the_labyrinth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "mirror_music:disc/epic/upril__razors_and_erasers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "mirror_music:disc/epic/dead_wasps__ill_be_your_sun"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "mirror_music:disc/epic/give_me_a_tank__ahead"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "mirror_music:disc/epic/shadows_of_freedom__a_song_of_anger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "mirror_music:disc/epic/across_rivers_mountains_and_valleys__6equj5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "mirror_music:disc/epic/across_rivers_mountains_and_valleys__the_thunderous_overture"
         }
     ]
 }

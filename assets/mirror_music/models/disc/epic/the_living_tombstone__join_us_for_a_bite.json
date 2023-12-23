@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mirror_music:item/epic/the_living_tombstone__join_us_for_a_bite"
+    }
+}

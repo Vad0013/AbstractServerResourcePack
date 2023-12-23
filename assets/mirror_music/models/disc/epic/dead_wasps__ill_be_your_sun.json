@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mirror_music:item/epic/dead_wasps__ill_be_your_sun"
+    }
+}
