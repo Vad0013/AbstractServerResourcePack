@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "lost_tapes:item/disc/ericdoa_valorant__greater_than_one"
+    }
+}

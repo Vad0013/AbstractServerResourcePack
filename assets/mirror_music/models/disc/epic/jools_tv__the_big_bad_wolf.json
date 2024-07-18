@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mirror_music:item/epic/jools_tv__the_big_bad_wolf"
-    }
-}

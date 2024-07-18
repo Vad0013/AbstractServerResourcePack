@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "lost_tapes:item/disc/shadows_of_freedom__a_song_of_anger"
+    }
+}

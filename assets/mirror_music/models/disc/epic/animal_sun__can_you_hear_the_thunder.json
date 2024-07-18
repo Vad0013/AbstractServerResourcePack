@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mirror_music:item/epic/animal_sun__can_you_hear_the_thunder"
-    }
-}

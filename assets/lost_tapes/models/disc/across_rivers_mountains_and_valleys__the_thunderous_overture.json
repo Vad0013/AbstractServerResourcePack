@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "lost_tapes:item/disc/across_rivers_mountains_and_valleys__the_thunderous_overture"
+    }
+}

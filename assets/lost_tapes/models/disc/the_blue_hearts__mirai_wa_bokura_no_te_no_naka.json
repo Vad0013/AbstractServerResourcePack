@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "lost_tapes:item/disc/the_blue_hearts__mirai_wa_bokura_no_te_no_naka"
+    }
+}

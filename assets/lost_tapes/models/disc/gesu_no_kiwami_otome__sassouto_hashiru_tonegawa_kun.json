@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "lost_tapes:item/disc/gesu_no_kiwami_otome__sassouto_hashiru_tonegawa_kun"
+    }
+}
